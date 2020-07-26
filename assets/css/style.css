@@ -4345,25 +4345,6 @@ hr {
   padding-top: 30px;
 }
 
-/* line 128, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_footer.scss */
-.footer-area .footer-bottom .footer-copy-right p {
-  color: #bdbdbd;
-  font-weight: 300;
-  font-size: 16px;
-  line-height: 2;
-  margin-bottom: 12px;
-}
-
-/* line 134, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_footer.scss */
-.footer-area .footer-bottom .footer-copy-right p i {
-  color: #33cfff;
-}
-
-/* line 137, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_footer.scss */
-.footer-area .footer-bottom .footer-copy-right p a {
-  color: #33cfff;
-}
-
 /* line 151, C:/Users/HP/Desktop/jun-2020/278.Internet_service/assets/scss/_footer.scss */
 .footer-area .footer-social span {
   color: #fff;
